@@ -20,9 +20,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Unknownx1op/Unknownx1op/output/snake.svg" alt="Snake animation" />
-
-###
